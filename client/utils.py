@@ -10,7 +10,7 @@ console: Console = Console()
 
 
 class Preferences:
-    """
+    """ 
     This needs to be passed onto the 'User' class as it sets the default preferences:
     'sampleuser = User("samplename", "password", default_preference)'
 
